@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "id": 43156311,
+      "avatar_url": "https://avatars.githubusercontent.com/u/43156311?v=4",
+      "url": "https://api.github.com/users/AdriandersonLira",
+      "name": "Adrianderson Lira",
+      "location": "Brasil",
+      "bio": "Apaixonado pelas melhores tecnologias de desenvolvimento web e mobile.",
+      "created_at": "2018-09-10T23:43:28Z",
+      "updated_at": "2021-08-10T15:49:07Z"
+    }
+  ]
+}
